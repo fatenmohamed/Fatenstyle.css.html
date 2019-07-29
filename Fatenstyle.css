@@ -1,0 +1,4 @@
+#header{ width: 1300px;    height: 130px;    background-color: yellow; }
+#logo{ background-color: black;    width: 300px;     height: 120px;     float: right;     padding: 5px; }
+#search{ background-color: blue;     width: 550px;     height: 120px;     float: right;     padding: 5px; }
+#login in{ background-color: black;    width: 300px;     height: 120px;     float: left;     padding: 5px; }
